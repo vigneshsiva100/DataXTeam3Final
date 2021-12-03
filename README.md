@@ -17,3 +17,6 @@ VAR_ML_DataX.ipynb
 Vector autoregression (VAR) is used for to capture the relationship among multiple features including 'CRASH_DT', 'K_PEOPLE', 'PERSONS_INJURED',  'PEDESTRIANS_KILLED,' and 'PEDESTRIANS_INJURED.' This is our baseline model to test the best possible fit. 
 
 Note: Full datasets are submitted through Google Drive due to Github storage issues
+- full_crash1.csv used for VAR_ML_DataX.ipynb 
+
+- Crash_Data.csv used for Oribit_ML_DataX.ipynb and Prophet_ML_DataX.ipynb
