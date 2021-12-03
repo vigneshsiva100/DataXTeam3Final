@@ -15,3 +15,5 @@ The Prophet Package utilizes an algorithm to generate time series models. Throug
 VAR_ML_DataX.ipynb
 
 Vector autoregression (VAR) is used for to capture the relationship among multiple features including 'CRASH_DT', 'K_PEOPLE', 'PERSONS_INJURED',  'PEDESTRIANS_KILLED,' and 'PEDESTRIANS_INJURED.' This is our baseline model to test the best possible fit. 
+
+Note: Full datasets are submitted through Google Drive due to Github storage issues
